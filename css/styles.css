@@ -77,6 +77,7 @@ img {
 
 .section {
     padding-top: 94px;
+    padding-bottom: 94;
 }
 
 .padding {
@@ -379,7 +380,7 @@ a.link.current {
     justify-content: center;
     width: 170px;
     height: 92px;
-    border: 1px solid #afb1b8;
+    border: 1px solid currentColor;
     border-radius: 4px;
     color: var(--icon-color);
 }
